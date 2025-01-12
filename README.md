@@ -1,6 +1,6 @@
 # Calculator
 
-**Read this file before run the projet **
+**Read this file before run the projet**
 
 # How to run the projet 
 
